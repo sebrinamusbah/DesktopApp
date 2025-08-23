@@ -28,7 +28,7 @@ This project demonstrates Object-Oriented Programming (OOP), GUI development, an
 ---
 
 ## How to Run
-1. Download the `.jar` file from the [Releases](link-to-your-release) section.
+1. Download the `.jar` file from the [Releases][(https://github.com/sebrinamusbah/DesktopApp/releases/download/v1.0/Hotel_Managment_System.jar)] section.
 2. Make sure you have **Java installed** on your system.
 3. Run the application by double-clicking the `.jar` file or using the terminal:
 
