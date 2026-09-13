@@ -1,0 +1,18 @@
+# Build and distribution files
+hotelmanagmentsystem desktop app/dist/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# Compiled Java files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
